@@ -8,6 +8,10 @@ Here is a cute dolphin:
 
 ![A cute dolphi](cute-dolphin.jpeg)
 
+Here is a happy dolphin:
+
+![A happy dolphin](happy-dolphin.jpg)
+
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
 
